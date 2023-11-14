@@ -74,6 +74,6 @@ class Api {
 }
 
 export const api = new Api(
-  "http://localhost:3000/",
+  "http://api.annapetrova.mesto.nomoredomainsmonster.ru/",
   "8f841aa5-d524-4117-84e2-1be232c9909b",
 );
