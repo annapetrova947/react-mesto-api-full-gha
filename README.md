@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 62.84.121.214
+IP-адрес 158.160.84.240
 
 Frontend https://annapetrova.mesto.nomoredomainsmonster.ru
 
