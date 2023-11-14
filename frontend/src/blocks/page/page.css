@@ -11,6 +11,7 @@
   background-color: #000;
   padding-top: 45px;
   color: #ffffff;
+  min-height: 100vh;
 }
 @media (max-width: 880px) {
   .page {
