@@ -58,4 +58,4 @@ class Auth {
   }
 }
 
-export const auth = new Auth("http://localhost:3000");
+export const auth = new Auth("http://api.annapetrova.mesto.nomoredomainsmonster.ru");
