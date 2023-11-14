@@ -1,0 +1,27 @@
+.modal__close {
+  color: #aaa;
+  background-image: url("../../../images/Close_Icon.svg");
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0);
+  top: -40px;
+  right: -40px;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 0;
+}
+
+.modal__close:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+@media (max-width: 880px) {
+  .modal__close {
+    right: 0;
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+    top: -36px;
+  }
+}

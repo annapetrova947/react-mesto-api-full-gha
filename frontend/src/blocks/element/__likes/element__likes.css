@@ -1,0 +1,6 @@
+.element__likes {
+  display: grid;
+  flex-direction: column;
+  margin-right: 30px;
+  margin-top: 22px;
+}

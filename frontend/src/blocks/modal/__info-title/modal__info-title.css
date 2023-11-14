@@ -1,0 +1,11 @@
+.modal__info-title {
+  width: 358px;
+  color: #000;
+  text-align: center;
+  margin: 32px auto 60px;
+  font-size: 24px;
+
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}

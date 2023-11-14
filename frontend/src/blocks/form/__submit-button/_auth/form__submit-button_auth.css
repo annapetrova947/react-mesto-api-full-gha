@@ -1,0 +1,9 @@
+.form__submit-button_auth {
+  color: black;
+  background-color: white;
+}
+
+.form__submit-button_auth:hover {
+  background: rgba(255, 255, 255, 0.85);
+  cursor: pointer;
+}

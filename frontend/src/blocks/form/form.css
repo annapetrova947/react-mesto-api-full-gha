@@ -1,0 +1,16 @@
+.form {
+  padding: 34px 36px 37px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form_auth {
+  padding-top: 60px;
+  width: 358px;
+  margin: 0 auto;
+}
+@media (max-width: 880px) {
+  .form {
+    padding: 25px 22px;
+  }
+}

@@ -1,0 +1,28 @@
+.form__input-error {
+  font-size: 12px;
+  line-height: 15px;
+  color: #e53e3e;
+  opacity: 0;
+  top: calc(100% + 5px);
+  left: 0;
+  transition: opacity 0.3s;
+
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  min-height: 24px;
+  width: 358px;
+}
+
+.form__input-error:last-of-type {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 880px) {
+  .form__input-error {
+    width: 238px;
+  }
+  .form__input-error:last-of-type {
+    margin-bottom: 15px;
+  }
+}

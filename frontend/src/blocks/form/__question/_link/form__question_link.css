@@ -1,0 +1,9 @@
+.form__question_link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.form__question_link:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}

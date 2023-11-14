@@ -1,0 +1,6 @@
+.header__navigation {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  gap: 24px;
+}
