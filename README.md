@@ -11,6 +11,6 @@
 
 IP-адрес 62.84.121.214
 
-Frontend https://...
+Frontend https://annapetrova.mesto.nomoredomainsmonster.ru
 
-Backend https://...
+Backend https://api.annapetrova.mesto.nomoredomainsmonster.ru
