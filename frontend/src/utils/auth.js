@@ -58,4 +58,4 @@ class Auth {
   }
 }
 
-export const auth = new Auth("http://api.annapetrova.mesto.nomoredomainsmonster.ru");
+export const auth = new Auth("https://api.annapetrova.mesto.nomoredomainsmonster.ru");
